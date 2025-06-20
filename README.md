@@ -28,5 +28,6 @@ Fine-Tunes the Best Predictor: Takes the best guessing method and adjusts its se
 Shows Results: Displays how well the best method predicted prices, including a graph to compare the actual prices with the predicted ones.
 
 **OUTPUT :**
-457090464-f6bc0989-5d6e-4614-80e3-bf43d5a52dc4-1.png
+
+
 
